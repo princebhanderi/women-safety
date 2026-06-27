@@ -1,0 +1,18 @@
+# Dependency directories
+backend/node_modules/
+
+# Private environment variables
+backend/.env
+
+# Test coverage logs
+backend/coverage/
+
+# Log files
+backend/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
